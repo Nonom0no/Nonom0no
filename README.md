@@ -1,5 +1,6 @@
 ﻿<div align="center">
 
+
 <!-- Typing SVG Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7858E&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hi+there!+I+am+Nonom0no;Welcome+to+the+corner+of+my+GitHub" alt="Typing SVG" />
 
