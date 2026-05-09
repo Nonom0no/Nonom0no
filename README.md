@@ -2,7 +2,7 @@
 
 
 <!-- Typing SVG Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7858E&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hi+there!+I+am+Nonom0no;Welcome+to+the+corner+of+my+GitHub" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7858E&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hi+there!+I+am+Nonom0no;Welcome+to+the+corner+of+my+GitHub" alt="Typing SVG"/>
 
 <!-- Pink Divider -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,20,20,20&height=120&section=header&text=&fontSize=0" width="100%" />
