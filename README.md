@@ -11,7 +11,7 @@
 
 ---
 
-<div align="center">
+<div align="center" >
 
 <!-- Fun GIF -->
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzkyM3lhMXhnenJ0dHBkNGJrb21wMHpqb29kbW1kcDRodDR2b2xkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cA82jO6Dl1pz8DWKpz/giphy.gif" width="380" alt="coding gif" />
